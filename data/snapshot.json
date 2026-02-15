@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-02-14T00:00:00Z",
+  "domains": {
+    "example.com": {
+      "mode": "allowlist",
+      "plus_tag": true,
+      "mailboxes": ["inbound", "support"],
+      "disabled": false
+    }
+  }
+}
